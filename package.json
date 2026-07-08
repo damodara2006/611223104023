@@ -1,0 +1,25 @@
+{
+  "name": "611223104023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon logging-middleware/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damodara2006/611223104023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damodara2006/611223104023/issues"
+  },
+  "homepage": "https://github.com/damodara2006/611223104023#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
